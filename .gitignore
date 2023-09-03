@@ -1,0 +1,20 @@
+
+# System files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Audio output files
+*_audio.wav
+
+# Logs and others
+*.log
